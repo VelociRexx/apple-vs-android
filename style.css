@@ -1,29 +1,17 @@
-.center {
-  text-align: center;
+body {
   margin: 0 auto;
-}
-
-.page {
   width: 600px;
-  margin: 0 auto;
-  background-color: white;
   padding-left: 100px;
   padding-right: 100px;
   padding-bottom: 150px;
-}
-
-.img {
-  padding-left: 100px;
-  padding-right: 100px;
-  margin: 0 auto;
   background-color: white;
 }
-
-body {
+html {
   background-color: #cabfb6;
-  margin: 0 auto;
 }
-
+.center {
+  margin-left: 200px;
+}
 .button {
   text-align: center;
   text-decoration: none;
@@ -36,6 +24,7 @@ body {
   background-color: #c9793b;
   border: 3px solid #c9793b;
   color: black;
+  width: 130px;
   padding: 15px 32px;
   border-radius: 15px;
   box-shadow: 0 3px #999;
@@ -76,15 +65,3 @@ b {
 #button1:hover {
   background-color: #925322;
 }
-/*
-.text {
-  background-color: white;
-  padding-top: 10px;
-  padding-right: 0px;
-  padding-bottom: 20px;
-}
-
-body {
-  padding: 0px 170px 50px 170px;
-}
-*/
